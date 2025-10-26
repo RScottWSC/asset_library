@@ -11,13 +11,32 @@ I created the trunk of my tree by
 ### Test
 > [!WARNING]
 > This warning is here to remind you to fill in this section. When finished, delete the warning.
+>
+> 
+> (Add a screenshot of the whole tree, and if you found any, screenshot issues with the trunk. Describe any issues you've found (size, out-of-place vertices, etc.)
 
 ### Review
+#### Question: How do you feel about...?
+-
+-
+
+#### Question: How do you feel about...?
+-
+-
+
+#### Other comments
+-
+-
+
 > [!WARNING]
 > This warning is here to remind you to fill in this section. When finished, delete the warning.
+>
+> (Ask 2 people about different parts of the trunk - shape, size, bottom, top - and record what they say.
 
 ### Improve
 > [!WARNING]
 > This warning is here to remind you to fill in this section. When finished, delete the warning.
+>
+> (Add a screenshot of any improvements and describe what you changed and why)
 
 
